@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         button = (ImageButton) findViewById(R.id.text_World_Forst);
-
+        iniOnClick();
         Toast.makeText(MainActivity.this,"CSTI 神风测试已经开始！",Toast.LENGTH_SHORT).show();
 
     }
