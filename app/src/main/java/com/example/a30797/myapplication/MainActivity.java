@@ -21,11 +21,10 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        findViewById(R.id.bu).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.button1).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast
-                        .makeText(MainActivity.this,"!23",Toast.LENGTH_SHORT).show();
+                Toast.makeText(MainActivity.this,"!23",Toast.LENGTH_SHORT).show();
             }
         });
     }
