@@ -24,5 +24,11 @@
         android:text="世界第一牛逼"
         android:textSize="20dp"/>
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="123"
+        android:id="@+id/bu"/>
+
 
 </android.support.constraint.ConstraintLayout>

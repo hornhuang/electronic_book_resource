@@ -20,5 +20,13 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this,"超级牛逼大老宋",Toast.LENGTH_SHORT).show();
             }
         });
+
+        findViewById(R.id.bu).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Toast
+                        .makeText(MainActivity.this,"!23",Toast.LENGTH_SHORT).show();
+            }
+        });
     }
 }
