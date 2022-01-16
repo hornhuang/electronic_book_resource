@@ -6,7 +6,7 @@
 - 贴心福利，不点个 star 合适吗？
 - 手机不易，快交出你的三连
 
-</br>
+![just reading for life](https://github.com/hornhuang/electronic_book_resource/blob/master/assets/images/reading.jpg)
 
 # Notice 🍔
 
